@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/Fondo.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+  }
+  
+  .Boton2{
+    position:relative;
+    left: 5px;
+    padding: 10px;
+   width: 300px;
+}
+ .Menu{
+    width: 350px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: black;
+ }
+ label{
+     color: white;
+ }
